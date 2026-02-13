@@ -1,0 +1,6 @@
+// 20260210 
+
+this is a very basic mini project in which i will change the background color on the button click
+here i will use the bootstrap button
+color are provided in an array not dynamically changed
+
