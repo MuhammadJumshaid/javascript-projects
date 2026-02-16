@@ -1,0 +1,4 @@
+// 20260214 
+
+creating a project in which we will change the bg-color of body on the btn click (the same like previous project) also the hex code of the bg-color
+i will use simple css and bootstrap
