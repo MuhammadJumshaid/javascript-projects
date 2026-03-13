@@ -1,0 +1,3 @@
+// 20260307 
+
+this is simple mini project "A simple slideshow that lets you flip through multiple images in one spot"
